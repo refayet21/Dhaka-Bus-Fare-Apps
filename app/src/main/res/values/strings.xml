@@ -1,0 +1,1278 @@
+<resources>
+    <string name="app_name">Bus Fare - Dhaka City</string>
+
+    <string-array name="all_bus">
+        <item>Achim Paribahan</item>
+        <item>Active Paribahan</item>
+        <item>Agradut</item>
+        <item>Airport Bangabandhu Avenue</item>
+        <item>Azmeri Glory</item>
+        <item>Ajmi</item>
+        <item>Akash</item>
+        <item>Akik</item>
+        <item>Al Makka</item>
+        <item>Al Madina Plus</item>
+        <item>Alif</item>
+        <item>Anabil Super</item>
+        <item>Arnob</item>
+        <item>Ashirbad Pahibahan</item>
+        <item>Ashulia Classic</item>
+        <item>Asmani</item>
+        <item>Ayat</item>
+        <item>Bahon</item>
+        <item>Baishakhi</item>
+        <item>Balaka</item>
+        <item>Basumati</item>
+        <item>Basumati Transport</item>
+        <item>Best Satabdi AC</item>
+        <item>Best Transport</item>
+        <item>Bhuiyan Paribahan</item>
+        <item>Bihanga</item>
+        <item>Bikalpa</item>
+        <item>Bikalpa</item>
+        <item>Bikash</item>
+        <item>Bikash Paribahan</item>
+        <item>Bondhu Paribahan</item>
+        <item>Borak</item>
+        <item>Bashumoti</item>
+        <item>Brihottor Mirpur</item>
+        <item>BRTC</item>
+        <item>BRTC</item>
+        <item>BRTC</item>
+        <item>BRTC</item>
+        <item>BRTC</item>
+        <item>BRTC</item>
+        <item>BRTC</item>
+        <item>BRTC</item>
+        <item>BRTC</item>
+        <item>BRTC</item>
+        <item>Cantonment</item>
+        <item>Cantonment Mini Service</item>
+        <item>Champion</item>
+        <item>City Link</item>
+        <item>D Link</item>
+        <item>D One Transport</item>
+        <item>Deepan</item>
+        <item>Desh Bangla</item>
+        <item>Dewan</item>
+        <item>Dhakar Chaka</item>
+        <item>Dhakar Chaka</item>
+        <item>Dhaka Metro Service</item>
+        <item>Dhaka Paribahan</item>
+        <item>Dipon</item>
+        <item>Dip Paribahan</item>
+        <item>Dishari</item>
+        <item>Elite</item>
+        <item>ETC</item>
+        <item>ETC Transport</item>
+        <item>Everest Paribahan</item>
+        <item>Falgun Art Transport</item>
+        <item>First Ten</item>
+        <item>Gazipur Paribahan</item>
+        <item>Grameen</item>
+        <item>Grameen Suveccha</item>
+        <item>Green Anabil</item>
+        <item>Green Dhaka</item>
+        <item>Gulshan Chaka</item>
+        <item>Hazi Transport</item>
+        <item>Himachal</item>
+        <item>Himachal Suveccha</item>
+        <item>Himalay</item>
+        <item>Itihash</item>
+        <item>J M Super Paribahan</item>
+        <item>Kamal Plus Paribahan</item>
+        <item>kanak</item>
+        <item>Khajababa</item>
+        <item>Kironmala Paribahan</item>
+        <item>Labbayek</item>
+        <item>Lal Sabuj (AC)</item>
+        <item>Lams Paribahan</item>
+        <item>Malancha</item>
+        <item>Manjil Express</item>
+        <item>Meghla Transport</item>
+        <item>Meshkat</item>
+        <item>Midline</item>
+        <item>Mirpur Metro Services</item>
+        <item>Mirpur Link</item>
+        <item>Mirpur Mission</item>
+        <item>Mirpur Transport</item>
+        <item>Mirpur United Service</item>
+        <item>MM Lovely</item>
+        <item>Modhumita</item>
+        <item>Mohona</item>
+        <item>Moitri</item>
+        <item>Moumita</item>
+        <item>Nur E Makka</item>
+        <item>Nabakali</item>
+        <item>New Vision</item>
+        <item>Nilachol</item>
+        <item>Nishorgo</item>
+        <item>Omama International</item>
+        <item>One Transport</item>
+        <item>Pallabi Local Service</item>
+        <item>Pallabi Super</item>
+        <item>Paristhan</item>
+        <item>Power Paribahan</item>
+        <item>Prattay</item>
+        <item>Prochesta</item>
+        <item>Projapati</item>
+        <item>Provati Banasree</item>
+        <item>Purbachol Logistics and Transport</item>
+        <item>Raida</item>
+        <item>Raja City</item>
+        <item>Rojonigondha</item>
+        <item>Rajdhani Super</item>
+        <item>Romjan</item>
+        <item>Robrob</item>
+        <item>Rois</item>
+        <item>Rongdhonu Express</item>
+        <item>Runway Express</item>
+        <item>Rupa Paribahan</item>
+        <item>Rupkotha</item>
+        <item>Safety Druti</item>
+        <item>Sakalpa Transport</item>
+        <item>Salsabil</item>
+        <item>Savar Paribahan</item>
+        <item>Sadhin</item>
+        <item>Sadhin Express</item>
+        <item>Shahria Enterprise</item>
+        <item>Shatabdi</item>
+        <item>Shikhor Paribahan</item>
+        <item>Suveccha</item>
+        <item>Suvojatri</item>
+        <item>Siam Transport</item>
+        <item>Skyline</item>
+        <item>Somota Paribahan</item>
+        <item>Somoy</item>
+        <item>Somoy Niyantran</item>
+        <item>Super</item>
+        <item>Supravat</item>
+        <item>Swajan Paribahan</item>
+        <item>Talukdar</item>
+        <item>Tanjil Paribahan</item>
+        <item>Torongo Plus</item>
+        <item>Tetulia</item>
+        <item>Thikana</item>
+        <item>Thikana Express</item>
+        <item>Titas</item>
+        <item>Transilva</item>
+        <item>Trust Transport</item>
+        <item>Turag</item>
+        <item>Victor Classic</item>
+        <item>Victor Paribahan</item>
+        <item>VIP 27</item>
+        <item>Welcome</item>
+        <item>Winner</item>
+        <item>13 No.</item>
+        <item>4 No.</item>
+        <item>6 No.</item>
+        <item>6 No.</item>
+        <item>7 No.</item>
+        <item>8 No.</item>
+        <item>9 No.</item>
+    </string-array>
+
+    <string-array name="distance_name">
+        <item>Chittagong Road</item>
+        <item>Sign Board</item>
+        <item>Matuail</item>
+        <item>Rayerbag</item>
+        <item>Jatrabari</item>
+        <item>Sayedabad</item>
+        <item>Gulistan</item>
+        <item>GPO</item>
+        <item>Paltan</item>
+        <item>Press Club</item>
+        <item>High Court</item>
+        <item>Shahbag</item>
+        <item>Bata Signal</item>
+        <item>Science Lab</item>
+        <item>City College</item>
+        <item>Jigatola</item>
+        <item>Dhanmondi 15</item>
+        <item>Star Kabab</item>
+        <item>Shankar</item>
+        <item>Mohammadpur</item>
+        <item>Bosila</item>
+        <item>Washpur</item>
+        <item>Arshinagar</item>
+        <item>Ghatar Char</item>
+
+        <item>Chiriyakhana</item>
+        <item>Sony Cinema Hall</item>
+        <item>Mirpur 2</item>
+        <item>Mirpur 10</item>
+        <item>Kazipara</item>
+        <item>Shewrapara</item>
+        <item>Taltola</item>
+        <item>Agargaon</item>
+        <item>Khamar Bari</item>
+        <item>Farmgate</item>
+        <item>Kawran Bazar</item>
+        <item>Bangla Motor</item>
+        <item>Mogbazar</item>
+        <item>Mouchak</item>
+        <item>Malibagh Moor</item>
+        <item>Rajarbag</item>
+        <item>Kamalapur</item>
+
+        <item>Nandan Park</item>
+        <item>Zirani Bazar</item>
+        <item>Baipayl</item>
+        <item>Nobinagar</item>
+        <item>Savar</item>
+        <item>Hemayetpur</item>
+        <item>Amin Bazar</item>
+        <item>Gabtoli</item>
+        <item>Technical</item>
+        <item>Kallyanpur</item>
+        <item>Shyamoli</item>
+        <item>Shishu Mela</item>
+        <item>College Gate</item>
+        <item>Asad Gate</item>
+        <item>Khamar Bari</item>
+        <item>Farmgate</item>
+        <item>Kawran Bazar</item>
+        <item>Bangla Motor</item>
+        <item>Motijheel</item>
+        <item>Kamalapur</item>
+
+
+        <item>Duaripara</item>
+        <item>Rupnagar Abashik</item>
+        <item>Shiyal Bari</item>
+        <item>Proshika Moor</item>
+        <item>Mirpur 1</item>
+        <item>Ansar Camp</item>
+        <item>Dhanmondi 27</item>
+        <item>Shukrabad</item>
+        <item>Dhanmondi 32</item>
+        <item>Kalabagan</item>
+        <item>New Market</item>
+        <item>Nilkhet</item>
+        <item>Azimpur</item>
+
+
+        <item>Japan Garden City</item>
+        <item>Ring Road</item>
+        <item>Adabor</item>
+        <item>Agargaon</item>
+        <item>Zia Uddyan</item>
+        <item>Bijoy Sarani</item>
+        <item>Old Airport</item>
+        <item>Jahangir Gate</item>
+        <item>Mohakhali</item>
+        <item>Chairman Bari</item>
+        <item>Sainik Club</item>
+        <item>kakali</item>
+        <item>Banani</item>
+        <item>Staff Road</item>
+        <item>MES</item>
+        <item>Shewra</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet</item>
+        <item>Airport</item>
+        <item>Jashimuddin</item>
+        <item>Rajlakshmi</item>
+        <item>Azampur</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+
+
+        <item>Kakrail</item>
+        <item>Shantinagar</item>
+        <item>Malibagh Moor</item>
+        <item>Mouchak</item>
+        <item>Mogbazar</item>
+        <item>Nabisco</item>
+        <item>Mohakhali</item>
+        <item>Chairman Bari</item>
+        <item>Kakali</item>
+        <item>Banani</item>
+        <item>ECB Square</item>
+        <item>Kalshi</item>
+        <item>Purobi</item>
+
+
+        <item>Kadamtali</item>
+        <item>Keraniganj</item>
+        <item>Babubazar</item>
+        <item>Naya Bazar</item>
+        <item>Golap Shah Mazar</item>
+        <item>Malibagh Railgate</item>
+        <item>Hazipara</item>
+        <item>Rampura Bazar</item>
+        <item>Rampura Bridge</item>
+        <item>Merul</item>
+        <item>Badda</item>
+        <item>Shahjadpur</item>
+        <item>Bashtola</item>
+        <item>Notun Bazar</item>
+        <item>Nadda</item>
+        <item>Bashundhara</item>
+        <item>Jamuna Future Park</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet</item>
+        <item>Airport</item>
+        <item>Jashimuddin</item>
+        <item>Rajlakshmi</item>
+        <item>Azampur</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+        <item>Tongi</item>
+
+        <item>Dhour</item>
+        <item>Uttar Badda</item>
+        <item>Badda</item>
+        <item>Madhya Badda</item>
+        <item>Banasree</item>
+        <item>Demra Staff Quarter</item>
+        <item>Tarabo</item>
+        <item>Madanpur</item>
+
+
+        <item>Ansar Camp</item>
+        <item>Sony Cinema Hall</item>
+        <item>Mirpur 11</item>
+        <item>Purobi</item>
+        <item>Kalshi</item>
+        <item>ECB Square</item>
+        <item>Jamuna Future Park</item>
+        <item>Bashundhara</item>
+        <item>Gabtoli</item>
+        <item>Technical</item>
+        <item>Ansar Camp</item>
+        <item>Sony Cinema Hall</item>
+        <item>Shia Masjid</item>
+        <item>Adabor </item>
+
+
+        <item>Mugdapara</item>
+        <item>Bashabo</item>
+        <item>Khilgaon</item>
+        <item>Tongi</item>
+        <item>Station Road</item>
+        <item>Mill Gate</item>
+        <item>Board Bazar</item>
+        <item>Gazipur Bypass</item>
+        <item>Gazipur Chourasta</item>
+        <item>Savar</item>
+        <item>Hemayetpur</item>
+        <item>Amin Bazar</item>
+        <item>Agargaon</item>
+        <item>Zia Uddyan</item>
+        <item>Bijoy Sarani</item>
+        <item>Jahangir Gate</item>
+        <item>Mohakhali</item>
+        <item>Wireless</item>
+        <item>Gulshan 1</item>
+        <item>Badda Link Road</item>
+        <item>Notun Bazar</item>
+
+        <item>Nobinagar</item>
+        <item>Baipayl</item>
+        <item>Jamgora</item>
+        <item>Fantasy Kingdom</item>
+        <item>Zirabo</item>
+        <item>Ashulia Bazar</item>
+        <item>Kakali</item>
+        <item>Banani</item>
+        <item>Chairman Bari</item>
+        <item>Mohakhali</item>
+        <item>Nabisco</item>
+        <item>Sat rasta</item>
+
+
+        <item>Fulbaria</item>
+        <item>Matsya Bhaban</item>
+        <item>Bangla Motor</item>
+        <item>Kawran Bazar</item>
+        <item>Farmgate</item>
+        <item>Sainik Club </item>
+        <item>Staff Road</item>
+
+
+        <item>Dhamrai</item>
+        <item>Savar</item>
+        <item>Hemayetpur</item>
+        <item>Aminbazar</item>
+        <item>Dhanmondi 32</item>
+        <item>Kalabagan</item>
+        <item>New Market</item>
+        <item>Nilkhet</item>
+        <item>Bakshi Bazar</item>
+
+
+        <item>Sadarghat</item>
+        <item>Ray Saheb Bazar</item>
+        <item>Naya Bazar</item>
+        <item>Gazipur Bypass</item>
+        <item>Konabari</item>
+        <item>Chandra</item>
+
+
+        <item>Mirpur 14</item>
+        <item>Katabon</item>
+        <item>Dainik Bangla Moor</item>
+        <item>Kamlapur</item>
+        <item>Mugdapara</item>
+        <item>Bashabo</item>
+        <item>Khilgaon</item>
+
+
+        <item>Savar</item>
+        <item>Hemayetpur</item>
+        <item>Amin Bazar</item>
+        <item>Gabtoli</item>
+        <item>Technical</item>
+        <item>Kallyanpur</item>
+        <item>Shyamoli</item>
+        <item> Shishu Mela</item>
+        <item>Agargaon</item>
+        <item>Bijoy Sarani</item>
+        <item>Jahangir Gate</item>
+        <item>Mohakhali</item>
+        <item>Gulshan 1</item>
+        <item>Badda Link Road</item>
+        <item>Notun Bazar</item>
+
+
+        <item>Manik Nagar</item>
+        <item>TT Para</item>
+        <item>Kamalapur</item>
+        <item>Malibagh Moor</item>
+        <item>Mouchak</item>
+        <item>Mogbazar</item>
+        <item>Satrasta</item>
+        <item>Nabisco</item>
+        <item>Mohakhali</item>
+        <item>Chairman Bari</item>
+        <item>Gazipur Bypass</item>
+        <item>Gazipur Chourasta</item>
+
+
+        <item>Manik Mia Avenue</item>
+        <item>Khamar Bari</item>
+        <item>Farmgate</item>
+        <item>Kawran Bazar</item>
+        <item>Bangla Motor</item>
+        <item>Shahbag</item>
+        <item>Matsya Bhaban</item>
+        <item>Babubazar</item>
+        <item>Keraniganj</item>
+        <item>Maowa</item>
+        <item>South Banasree</item>
+        <item>Tolarbag</item>
+
+
+    </string-array>
+
+
+    <string-array name="Achim_Paribahan">
+        <item>Gabtoli</item>
+        <item>Technical</item>
+        <item>Ansar Camp</item>
+        <item>Mirpur 1</item>
+        <item>Sony Cinema Hall</item>
+        <item>Mirpur 2</item>
+        <item>Mirpur 10</item>
+        <item>Mirpur 11</item>
+        <item>Purobi </item>
+        <item>Kalshi</item>
+        <item>ECB Square</item>
+        <item>MES </item>
+        <item>Shewra</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Jamuna Future Park</item>
+        <item>Bashundhara</item>
+        <item>Nadda</item>
+        <item>Notun Bazar</item>
+        <item>Bashtola </item>
+        <item>Shahjadpur </item>
+        <item>Uttar Badda</item>
+        <item>Badda</item>
+        <item>Madhya Badda</item>
+        <item>Merul</item>
+        <item>Rampura Bridge</item>
+        <item>Banasree </item>
+        <item>Demra Staff Quarter</item>
+    </string-array>
+
+
+    <string-array name="Active_Paribahan">
+        <item>Shia Masjid</item>
+        <item>Adabor </item>
+        <item>Shyamoli</item>
+        <item>Technical</item>
+        <item>Ansar Camp</item>
+        <item>Mirpur 1</item>
+        <item>Sony Hall</item>
+        <item>Mirpur 2</item>
+        <item>Mirpur 10</item>
+        <item>Mirpur 11</item>
+        <item>Purobi </item>
+        <item>Kalshi </item>
+        <item>ECB Square</item>
+        <item>MES</item>
+        <item>Shewrapara</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet</item>
+        <item>Airport</item>
+        <item>Jashimuddin </item>
+        <item>Rajlakshmi</item>
+        <item>Azampur</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+    </string-array>
+
+    <string-array name="Agradut">
+        <item>Savar</item>
+        <item>Hemayetpur</item>
+        <item>Amin Bazar</item>
+        <item>Gabtoli</item>
+        <item>Technical</item>
+        <item>Kallyanpur</item>
+        <item>Shyamoli</item>
+        <item>Shishu Mela</item>
+        <item>Agargaon</item>
+        <item>Zia Uddyan</item>
+        <item>Bijoy Sarani</item>
+        <item>Jahangir Gate</item>
+        <item>Mohakhali</item>
+        <item>Wireless</item>
+        <item>Gulshan 1</item>
+        <item>Badda Link Road</item>
+        <item>Bashtola</item>
+        <item>Shahjadpur</item>
+        <item>Uttar Badda</item>
+        <item>Notun Bazar</item>
+    </string-array>
+
+    <string-array name="Airport_Bangabandhu_Avenue">
+        <item>Fulbaria</item>
+        <item>Golap Shah Mazar</item>
+        <item>GPO </item>
+        <item>Paltan</item>
+        <item>Press Club</item>
+        <item>High Court</item>
+        <item>Matsya Bhaban</item>
+        <item>Shahbag</item>
+        <item>Bangla Motor</item>
+        <item>Kawran Bazar</item>
+        <item>Farmgate</item>
+        <item>Bijoy Sarani</item>
+        <item>Jahangir Gate</item>
+        <item>Mohakhali</item>
+        <item>Chairman Bari</item>
+        <item>Sainik Club </item>
+        <item>Banani</item>
+        <item>Kakali</item>
+        <item>Staff Road</item>
+        <item>MES</item>
+        <item>Shewra</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet</item>
+        <item>Airport</item>
+        <item>Jashimuddin</item>
+        <item>Rajlakshmi</item>
+        <item>Azampur</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+    </string-array>
+
+    <string-array name="Azmeri_Glory">
+        <item>Sadarghat</item>
+        <item>Ray Saheb Bazar</item>
+        <item>Naya Bazar</item>
+        <item>Golap Shah Mazar</item>
+        <item>GPO</item>
+        <item>Paltan</item>
+        <item>Kakrail </item>
+        <item>Shantinagar</item>
+        <item>Malibagh Moor</item>
+        <item>Mouchak</item>
+        <item>Nabisco</item>
+        <item>Mohakhali</item>
+        <item>Sainik Club</item>
+        <item>Banani</item>
+        <item>Kakali</item>
+        <item>Staff Road</item>
+        <item>MES</item>
+        <item>Shewra</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet</item>
+        <item>Airport</item>
+        <item>Jashimuddin Uttara</item>
+        <item>Rajlakshmi</item>
+        <item>Azampur</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+        <item>Tongi</item>
+        <item>Station Road</item>
+        <item>Mill Gate</item>
+        <item>Board Bazar</item>
+        <item>Gazipur Bypass</item>
+        <item>Konabari</item>
+        <item>Chandra</item>
+    </string-array>
+
+    <string-array name="Ajmi">
+        <item>Dhamrai</item>
+        <item>Savar</item>
+        <item>Hemayetpur</item>
+        <item>Aminbazar</item>
+        <item>Gabtoli</item>
+        <item>Technical</item>
+        <item>Kallyanpur</item>
+        <item>Shyamoli</item>
+        <item>Shishu Mela</item>
+        <item>College Gate</item>
+        <item>Asad gate</item>
+        <item>Dhanmondi 27</item>
+        <item>Dhanmondi 32</item>
+        <item>Kalabagan</item>
+        <item>City College </item>
+        <item>New Market</item>
+        <item>Nilkhet</item>
+        <item>Azimpur</item>
+        <item>Bakshi Bazar</item>
+        <item>Gulistan</item>
+        <item>Chittagong Road</item>
+    </string-array>
+
+    <string-array name="Akash">
+        <item>Kadamtali</item>
+        <item>Keraniganj</item>
+        <item>Babubazar</item>
+        <item>Naya Bazar</item>
+        <item>Golap Shah Mazar</item>
+        <item>GPO</item>
+        <item>Paltan</item>
+        <item>Kakrail </item>
+        <item>Shantinagar</item>
+        <item>Malibagh Moor</item>
+        <item>Mouchak</item>
+        <item>Malibagh Railgate</item>
+        <item>Hazipara</item>
+        <item>Rampura Bazar</item>
+        <item>Rampura Bridge</item>
+        <item>Merul</item>
+        <item>Badda</item>
+        <item>Shahjadpur</item>
+        <item>Bashtola</item>
+        <item>Notun Bazar</item>
+        <item>Nadda</item>
+        <item>Bashundhara</item>
+        <item>Jamuna Future Park</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet</item>
+        <item>Airport</item>
+        <item>Jashimuddin</item>
+        <item>Rajlakshmi</item>
+        <item>Azampur</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+        <item>Tongi</item>
+    </string-array>
+
+    <string-array name="Akik">
+        <item>Ansar Camp</item>
+        <item>Mirpur 1</item>
+        <item>Sony Cinema Hall</item>
+        <item>Mirpur 2</item>
+        <item>Mirpur 10</item>
+        <item>Mirpur 11</item>
+        <item>Purobi</item>
+        <item>Kalshi</item>
+        <item>ECB Square</item>
+        <item>MES</item>
+        <item>Shewra</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Jamuna Future Park</item>
+        <item>Bashundhara</item>
+        <item>Nadda</item>
+        <item>Notun Bazar</item>
+        <item>Bashtola</item>
+        <item>Shahjadpur</item>
+        <item>Uttar Badda</item>
+    </string-array>
+
+    <string-array name="Al_Makka">
+        <item>Motijheel</item>
+        <item>Gulistan</item>
+        <item>GPO</item>
+        <item>Paltan</item>
+        <item>Kakrail</item>
+        <item>Shantinagar</item>
+        <item>Malibagh Moor</item>
+        <item>Mouchak</item>
+        <item>Mogbazar</item>
+        <item>Nabisco</item>
+        <item>Mohakhali</item>
+        <item>Chairman Bari</item>
+        <item>Kakali</item>
+        <item>Banani</item>
+        <item>ECB Square</item>
+        <item>Kalshi</item>
+        <item>Purobi</item>
+        <item>Mirpur 10</item>
+        <item>Mirpur 2</item>
+        <item>Mirpur 1</item>
+    </string-array>
+
+    <string-array name="Al_Madina_Plus">
+        <item>Nandan Park</item>
+        <item>Zirani Bazar</item>
+        <item>Baipayl</item>
+        <item>Nobinagar</item>
+        <item>Savar</item>
+        <item>Hemayetpur</item>
+        <item>Amin Bazar</item>
+        <item>Gabtoli</item>
+        <item>Technical</item>
+        <item>Kallyanpur</item>
+        <item>Shyamoli</item>
+        <item>Shishu Mela</item>
+        <item>College Gate</item>
+        <item>Asad Gate</item>
+        <item>Khamar Bari</item>
+        <item>Farmgate</item>
+        <item>Kawran Bazar</item>
+        <item>Bangla Motor</item>
+        <item>Shahbag</item>
+        <item>High Court</item>
+        <item>Press Club</item>
+        <item>Paltan</item>
+        <item>GPO</item>
+        <item>Gulistan</item>
+        <item>Motijheel</item>
+        <item>Kamalapur</item>
+    </string-array>
+
+
+    <string-array name="Alif_Bus">
+        <item>Japan Garden City</item>
+        <item>Ring Road</item>
+        <item>Adabor</item>
+        <item>Shyamoli</item>
+        <item>Shishu Mela</item>
+        <item>Agargaon</item>
+        <item>Zia Uddyan</item>
+        <item>Bijoy Sarani</item>
+        <item>Old Airport</item>
+        <item>Jahangir Gate</item>
+        <item>Mohakhali</item>
+        <item>Chairman Bari</item>
+        <item>Sainik Club</item>
+        <item>kakali</item>
+        <item>Banani</item>
+        <item>Staff Road</item>
+        <item>MES</item>
+        <item>Shewra</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet</item>
+        <item>Airport</item>
+        <item>Jashimuddin</item>
+        <item>Rajlakshmi</item>
+        <item>Azampur</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+    </string-array>
+
+
+    <string-array name="Anabil_Super">
+        <item>Sign Board</item>
+        <item>Shonir Akhra</item>
+        <item>Jatrabari</item>
+        <item>Sayedabad</item>
+        <item>Mugdapara</item>
+        <item>Bashabo</item>
+        <item>Khilgaon</item>
+        <item>Malibagh Railgate</item>
+        <item>Hazipara</item>
+        <item>Rampura Bazar</item>
+        <item>Rampura Bridge</item>
+        <item>Merul</item>
+        <item>Badda</item>
+        <item>Uttar Badda</item>
+        <item>Shahjadpur</item>
+        <item>Bashtola</item>
+        <item>Notun Bazar</item>
+        <item>Nadda</item>
+        <item>Bashundhara</item>
+        <item>Jamuna Future Park</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet</item>
+        <item>Airport</item>
+        <item>Jashimuddin</item>
+        <item>Rajlakshmi</item>
+        <item>Azampur</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+        <item>Tongi</item>
+        <item>Station Road</item>
+        <item>Mill Gate</item>
+        <item>Board Bazar</item>
+        <item>Gazipur Bypass</item>
+        <item>Gazipur Chourasta</item>
+    </string-array>
+
+
+    <string-array name="Arnob_Bus">
+        <item>Hemayetpur</item>
+        <item>Amin Bazar</item>
+        <item>Gabtoli</item>
+        <item>Technical</item>
+        <item>Kallyanpur</item>
+        <item>Shyamoli</item>
+        <item>Shishu Mela</item>
+        <item>Agargaon</item>
+        <item>Zia Uddyan</item>
+        <item>Bijoy Sarani</item>
+        <item>Jahangir Gate</item>
+        <item>Mohakhali</item>
+        <item>Wireless</item>
+        <item>Gulshan 1</item>
+        <item>Badda Link Road</item>
+        <item>Madhya Badda</item>
+        <item>Merul</item>
+        <item>Rampura Bridge</item>
+        <item>Banasree</item>
+        <item>Demra Staff Quarter</item>
+    </string-array>
+
+
+    <string-array name="Ashirbad_Pahibahan">
+        <item>Duaripara</item>
+        <item>Rupnagar Abashik</item>
+        <item>Shiyal Bari</item>
+        <item>Proshika Moor</item>
+        <item>Mirpur 2</item>
+        <item>Mirpur 1</item>
+        <item>Ansar Camp</item>
+        <item>Technical</item>
+        <item>Kallyanpur</item>
+        <item>Shyamoli</item>
+        <item>Shishu Mela</item>
+        <item>College Gate</item>
+        <item>Asad Gate</item>
+        <item>Dhanmondi 27</item>
+        <item>Shukrabad</item>
+        <item>Dhanmondi 32</item>
+        <item>Kalabagan</item>
+        <item>City College</item>
+        <item>New Market</item>
+        <item>Nilkhet</item>
+        <item>Azimpur</item>
+    </string-array>
+
+
+    <string-array name="Ashulia_Classic">
+        <item>Nobinagar</item>
+        <item>Baipayl</item>
+        <item>Jamgora</item>
+        <item>Fantasy Kingdom</item>
+        <item>Zirabo</item>
+        <item>Ashulia Bazar</item>
+        <item>Kamarpara</item>
+        <item>Abdullahpur</item>
+        <item>House Building</item>
+        <item>Azampur</item>
+        <item>Rajlakshmi</item>
+        <item>Jashimuddin</item>
+        <item>Airport</item>
+        <item>Khilkhet</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Shewra</item>
+        <item>MES</item>
+        <item>Kakali</item>
+        <item>Banani</item>
+        <item>Chairman Bari</item>
+        <item>Mohakhali</item>
+        <item>Nabisco</item>
+        <item>Sat rasta</item>
+    </string-array>
+
+
+    <string-array name="Asmani">
+        <item>Dhour</item>
+        <item>Abdullahpur</item>
+        <item>House Building</item>
+        <item>Azampur</item>
+        <item>Rajlakshmi</item>
+        <item>Jashimuddin Uttara</item>
+        <item>Airport</item>
+        <item>Khilkhet</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Jamuna Future Park</item>
+        <item>Bashundhara</item>
+        <item>Nadda</item>
+        <item>Notun Bazar</item>
+        <item>Bashtola</item>
+        <item>Shahjadpur</item>
+        <item>Uttar Badda</item>
+        <item>Badda</item>
+        <item>Madhya Badda</item>
+        <item>Merul </item>
+        <item>Rampura Bridge</item>
+        <item>Banasree</item>
+        <item>Demra Staff Quarter</item>
+        <item>Tarabo</item>
+        <item>Madanpur</item>
+    </string-array>
+
+
+    <string-array name="Ayat">
+        <item>Chiriyakhana</item>
+        <item>Sony Cinema Hall</item>
+        <item>Mirpur 2</item>
+        <item>Mirpur 10</item>
+        <item>Kazipara</item>
+        <item>Shewrapara</item>
+        <item>Taltola</item>
+        <item>Agargaon</item>
+        <item>Khamar Bari</item>
+        <item>Farmgate</item>
+        <item>Kawran Bazar</item>
+        <item>Bangla Motor</item>
+        <item>Mogbazar</item>
+        <item>Mouchak</item>
+        <item>Malibagh Moor</item>
+        <item>Rajarbag</item>
+        <item>Kamalapur</item>
+    </string-array>
+
+    <string-array name="Bahon">
+        <item>Mirpur 14</item>
+        <item>Mirpur 10</item>
+        <item>Mirpur 2</item>
+        <item>Mirpur 1</item>
+        <item>Ansar Camp</item>
+        <item>Bangla College</item>
+        <item>Technical</item>
+        <item>Darussalam</item>
+        <item>Kallyanpur</item>
+        <item>Shyamoli</item>
+        <item>Asad Gate</item>
+        <item>Dhanmondi 27</item>
+        <item>Dhanmondi 32</item>
+        <item>Kalabagan</item>
+        <item>Science Lab</item>
+        <item>Katabon</item>
+        <item>Shahbag</item>
+        <item>High Court</item>
+        <item>Press Club</item>
+        <item>Paltan</item>
+        <item>Dainik Bangla Moor</item>
+        <item>Motijheel</item>
+        <item>Arambagh</item>
+        <item>Kamlapur</item>
+        <item>Mugdapara</item>
+        <item>Bashabo</item>
+        <item>Khilgaon</item>
+    </string-array>
+
+    <string-array name="Baishakhi">
+        <item>Savar</item>
+        <item>Hemayetpur</item>
+        <item>Amin Bazar</item>
+        <item>Gabtoli</item>
+        <item>Technical</item>
+        <item>Kallyanpur</item>
+        <item>Shyamoli</item>
+        <item> Shishu Mela</item>
+        <item>Agargaon</item>
+        <item>Bijoy Sarani</item>
+        <item>Jahangir Gate</item>
+        <item>Mohakhali</item>
+        <item>Gulshan 1</item>
+        <item>Badda Link Road</item>
+        <item>Bashtola</item>
+        <item>Uttar Badda</item>
+        <item>Notun Bazar</item>
+
+    </string-array>
+
+    <string-array name="Balaka">
+
+        <item>Sayedabad</item>
+        <item>Manik Nagar</item>
+        <item>TT Para</item>
+        <item>Kamalapur</item>
+        <item>Malibagh Moor</item>
+        <item>Mouchak</item>
+        <item>Mogbazar</item>
+        <item>Satrasta</item>
+        <item>Nabisco</item>
+        <item>Mohakhali</item>
+        <item>Chairman Bari</item>
+        <item>Banani</item>
+        <item>Kakali</item>
+        <item>Staff Road</item>
+        <item>MES</item>
+        <item>Shewra</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet</item>
+        <item>Airport</item>
+        <item>Jashimuddin</item>
+        <item>Rajlakshmi</item>
+        <item>Azampur</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+        <item>Tongi</item>
+        <item>Station Road</item>
+        <item>Mill Gate</item>
+        <item>Board Bazar</item>
+        <item>Gazipur Bypass</item>
+        <item>Gazipur Chourasta</item>
+    </string-array>
+
+    <string-array name="Basumati">
+
+        <item>Gabtoli</item>
+        <item>Technical</item>
+        <item>Kallyanpur</item>
+        <item>Shyamoli</item>
+        <item>Shishu Mela</item>
+        <item>College Gate</item>
+        <item>Asad Gate</item>
+        <item>Manik Mia Avenue</item>
+        <item>Khamar Bari</item>
+        <item>Farmgate</item>
+        <item>Kawran Bazar</item>
+        <item>Bangla Motor</item>
+        <item>Shahbag</item>
+        <item>Matsya Bhaban</item>
+        <item>High Court</item>
+        <item>Press Club</item>
+        <item>Paltan</item>
+        <item>GPO</item>
+        <item>Golap Shah Mazar</item>
+        <item>Naya Bazar</item>
+        <item>Babubazar</item>
+        <item>Keraniganj</item>
+        <item>Maowa</item>
+    </string-array>
+
+
+    <string-array name="Basumati_Transport">
+
+        <item>Gabtoli</item>
+        <item>Mirpur 1</item>
+        <item>Sony Cinema Hall</item>
+        <item>Mirpur 2</item>
+        <item>Mirpur 10</item>
+        <item>Mirpur 11</item>
+        <item>Purobi</item>
+        <item>Kalshi</item>
+        <item>ECB Square</item>
+        <item>MES</item>
+        <item>Shewra</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet </item>
+        <item>Airport</item>
+        <item>Jashimuddin</item>
+        <item>Rajlakshmi</item>
+        <item>Azampur</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+        <item>Tongi</item>
+        <item>Station Road</item>
+        <item>Mill Gate</item>
+        <item>Board Bazar</item>
+        <item>Gazipur Chourasta</item>
+    </string-array>
+
+
+    <string-array name="Rojonigondha">
+        <item>Chittagong Road</item>
+        <item>Sign Board</item>
+        <item>Matuail</item>
+        <item>Rayerbag</item>
+        <item>Jatrabari</item>
+        <item>Sayedabad</item>
+        <item>Gulistan</item>
+        <item>GPO</item>
+        <item>Paltan</item>
+        <item>Press Club</item>
+        <item>High Court</item>
+        <item>Shahbag</item>
+        <item>Bata Signal</item>
+        <item>Science Lab</item>
+        <item>City College</item>
+        <item>Jigatola</item>
+        <item>Dhanmondi 15</item>
+        <item>Star Kabab</item>
+        <item>Shankar</item>
+        <item>Mohammadpur</item>
+        <item>Bosila</item>
+        <item>Washpur</item>
+        <item>Arshinagar</item>
+        <item>Ghatar Char</item>
+    </string-array>
+
+
+    <string-array name="City_Link">
+        <item>Chittagong Road</item>
+        <item>Sign Board</item>
+        <item>Matuail</item>
+        <item>Rayerbag</item>
+        <item>Jatrabari</item>
+        <item>Sayedabad</item>
+        <item>Gulistan</item>
+        <item>GPO</item>
+        <item>Paltan</item>
+        <item>Press Club</item>
+        <item>High Court</item>
+        <item>Shahbag</item>
+        <item>Bata Signal</item>
+        <item>Science Lab</item>
+        <item>City College</item>
+        <item>Jigatola</item>
+        <item>Dhanmondi 15</item>
+        <item>Star Kabab</item>
+        <item>Shankar</item>
+        <item>Mohammadpur</item>
+        <item>Bosila</item>
+        <item>Washpur</item>
+        <item>Arshinagar</item>
+        <item>Ghatar Char</item>
+    </string-array>
+
+    <string-array name="Sadhin">
+        <!--bus stop names-->
+        <item>Bosila </item>
+        <item>Mohammadpur</item>
+        <item>Asad Gate</item>
+        <item>Khamar Bari</item>
+        <item>Farmgate</item>
+        <item>Kawran Bazar</item>
+        <item>Bangla Motor</item>
+        <item>Mogbazar</item>
+        <item>Mouchak</item>
+        <item>Malibagh Railgate</item>
+        <item>Hazipara</item>
+        <item>Rampura Bazar</item>
+        <item>Rampura Bridge</item>
+        <item>Banasree</item>
+        <item> Demra Staff Quarter</item>
+    </string-array>
+
+    <string-array name="Torongo_plus">
+        <!--bus stop names-->
+        <item>Mohammadpur</item>
+        <item>Shankar</item>
+        <item>Star Kabab</item>
+        <item>Dhanmondi 15</item>
+        <item>Jigatola</item>
+        <item>City College</item>
+        <item>Science Lab</item>
+        <item>Bata Signal</item>
+        <item>Shahbag</item>
+        <item>Matsya Bhaban</item>
+        <item>Kakrail</item>
+        <item>Shantinagar</item>
+        <item>Malibagh Moor</item>
+        <item>Mouchak</item>
+        <item>Malibagh Railgate</item>
+        <item>Hazipara</item>
+        <item>Rampura Bazar</item>
+        <item>Rampura Bridge</item>
+        <item>Banasree</item>
+        <item>South Banasree</item>
+    </string-array>
+
+    <string-array name="Romjan">
+        <!--bus stop names-->
+        <item>Mohammadpur</item>
+        <item>Shankar</item>
+        <item>Star Kabab</item>
+        <item>Dhanmondi 15</item>
+        <item>Jigatola</item>
+        <item>City College</item>
+        <item>Science Lab</item>
+        <item>Bata Signal</item>
+        <item>Shahbag</item>
+        <item>Matsya Bhaban</item>
+        <item>Kakrail</item>
+        <item>Shantinagar</item>
+        <item>Malibagh Moor</item>
+        <item>Mouchak</item>
+        <item>Malibagh Railgate</item>
+        <item>Hazipara</item>
+        <item>Rampura Bazar</item>
+        <item>Rampura Bridge</item>
+        <item>Banasree</item>
+        <item>Demra Staff Quarter</item>
+    </string-array>
+
+    <string-array name="Projapati">
+        <!--bus stop names-->
+        <item>Ghatar Char</item>
+        <item>Arshinagar</item>
+        <item>Washpur</item>
+        <item>Bosila</item>
+        <item>Mohammadpur</item>
+        <item>Asad Gate</item>
+        <item>College Gate</item>
+        <item>Shyamoli</item>
+        <item>Kallyanpur</item>
+        <item>Darussalam</item>
+        <item>Technical</item>
+        <item>Bangla College</item>
+        <item>Ansar Camp</item>
+        <item>Mirpur 1</item>
+        <item>Mirpur 2</item>
+        <item>Mirpur 10</item>
+        <item>Mirpur 11</item>
+        <item>Purobi</item>
+        <item>Kalshi</item>
+        <item>ECB Square</item>
+        <item>MES</item>
+        <item>Shewra</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet</item>
+        <item>Airport</item>
+        <item>Jashimuddin</item>
+        <item>Rajlakshmi</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+        <item>Kamarpara</item>
+    </string-array>
+
+    <string-array name="Paristhan">
+        <!--bus stop names-->
+        <item>Ghatar Char</item>
+        <item>Arshinagar</item>
+        <item>Washpur</item>
+        <item>Bosila</item>
+        <item>Mohammadpur</item>
+        <item>Asad Gate</item>
+        <item>College Gate</item>
+        <item>Shyamoli</item>
+        <item>Kallyanpur</item>
+        <item>Darussalam</item>
+        <item>Technical</item>
+        <item>Bangla College</item>
+        <item>Tolarbag</item>
+        <item>Ansar Camp</item>
+        <item>Mirpur 1</item>
+        <item>Mirpur 2</item>
+        <item>Mirpur 10</item>
+        <item>Mirpur 11</item>
+        <item>Purobi</item>
+        <item>Kalshi</item>
+        <item>ECB Square</item>
+        <item>MES</item>
+        <item>Shewra</item>
+        <item>Kuril Bishwa Road</item>
+        <item>Khilkhet</item>
+        <item>Airport</item>
+        <item>Jashimuddin</item>
+        <item>Rajlakshmi</item>
+        <item>House Building</item>
+        <item>Abdullahpur</item>
+    </string-array>
+
+
+</resources>

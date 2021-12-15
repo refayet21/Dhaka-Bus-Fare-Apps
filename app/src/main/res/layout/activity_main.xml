@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/top_bg"
+        android:background="@drawable/relative_bgg">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:drawableLeft="@drawable/bus_stop"
+                    android:text=" Dhaka Bus"
+                    android:textColor="#fff"
+                    android:textSize="25sp"
+                    android:textStyle="bold">
+
+                </TextView>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:background="#3E4744"
+                android:backgroundTint="#3E4744"
+                android:orientation="horizontal">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="10dp"
+                    android:orientation="vertical">
+
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:id="@+id/fromId"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:hint="  From"
+                        android:padding="10dp">
+
+                        <AutoCompleteTextView
+                            android:id="@+id/fromAutoId"
+                            android:inputType="textNoSuggestions"
+                            android:textAlignment="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="60dp"/>
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:id="@+id/toId"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:hint="  To"
+                        android:padding="10dp">
+
+                        <AutoCompleteTextView
+                            android:id="@+id/toAutoId"
+                            android:inputType="textNoSuggestions"
+                            android:textAlignment="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="60dp"/>
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+
+                    <Button
+                        android:id="@+id/buttonId"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Search"
+                        android:layout_gravity="center"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+                        android:textColor="#3E4744"
+                        android:backgroundTint="#8C9A96"
+                        android:shadowRadius="@integer/material_motion_duration_long_1"
+                        />
+                </LinearLayout>
+
+
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/middle_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/top_bg"
+        android:layout_marginTop="5dp"
+        android:gravity="center">
+
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:columnCount="2"
+            android:padding="5dp"
+            android:useDefaultMargins="true">
+
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#EAE9E9"
+                app:strokeColor="#3E4744"
+                app:strokeWidth="2dp">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal">
+
+
+                        <TextView
+                            android:id="@+id/searchTextId"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="10dp"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:orientation="horizontal"
+                        android:padding="5dp">
+
+                        <TextView
+                            android:id="@+id/distanceId"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textAlignment="center"
+                            android:textColor="#3E4744"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+
+                        <TextView
+                            android:id="@+id/busFareId"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textAlignment="center"
+                            android:textColor="#3E4744"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </com.google.android.material.card.MaterialCardView>
+
+
+        </GridLayout>
+
+
+    </RelativeLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/middle_bg"
+        android:background="@drawable/relative_bg"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#B07C8C87"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_weight="1"
+                android:textAllCaps="false"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Bus List"
+                android:selectAllOnFocus="false"
+                android:textAlignment="textStart"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:textColor="#3E4744"
+                android:outlineAmbientShadowColor="@android:color/transparent"
+                android:outlineSpotShadowColor="@android:color/transparent"
+                android:backgroundTint="@android:color/transparent"
+                android:shadowRadius="@integer/material_motion_duration_long_1"
+                />
+
+            <Button
+                android:layout_marginRight="10dp"
+                android:textAllCaps="false"
+                android:id="@+id/allBusId"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="All Bus"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:textColor="#3E4744"
+                android:outlineAmbientShadowColor="@android:color/transparent"
+                android:outlineSpotShadowColor="@android:color/transparent"
+                android:backgroundTint="@android:color/transparent"
+                android:shadowRadius="@integer/material_motion_duration_long_1"
+                />
+
+
+
+
+
+
+        </LinearLayout>
+
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/listViewId"
+            android:layout_marginTop="-5dp"
+            android:padding="10dp"/>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

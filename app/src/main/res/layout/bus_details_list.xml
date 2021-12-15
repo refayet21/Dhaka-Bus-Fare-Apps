@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="35dp">
+
+    <View
+        android:id="@+id/item_view"
+        android:layout_width="8dp"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/item_dot_iv"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="22.5dp"
+        android:layout_marginBottom="-5dp"
+        android:background="#455a64" />
+
+    <ImageView
+		android:background="#B07C8C87"
+        android:id="@+id/item_dot_iv"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="19dp" />
+
+    <View
+        android:id="@+id/item_view_1"
+        android:layout_width="8dp"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/item_dot_iv"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="22.5dp"
+        android:layout_marginTop="-4dp"
+        android:background="#455a64" />
+
+    <TextView
+        android:id="@+id/rout_name_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="20dp"
+        android:layout_toEndOf="@+id/item_dot_iv"
+        android:text="Rakib"
+        android:textSize="18sp" />
+</RelativeLayout>
